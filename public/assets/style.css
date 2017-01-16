@@ -68,7 +68,7 @@ header.sticky {
 /*############################# BODY ########################*/
 
 body {
-  background: salmon;
+  background: red;
   height: 1500px;
   -webkit-background-size: cover;
   -moz-background-size: cover;
