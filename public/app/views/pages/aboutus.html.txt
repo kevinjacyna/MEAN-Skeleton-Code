@@ -1,0 +1,7 @@
+<div>
+  <br><br><br>
+  <h2 class="animated bounce" align="center" style="color: white" >
+    About us! We're VERY KEWL! 
+  </h2>
+
+</div>

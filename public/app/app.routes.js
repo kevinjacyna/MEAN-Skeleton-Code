@@ -10,6 +10,10 @@ sampleApp.config(function($routeProvider, $locationProvider){
     controllerAs: 'user'
   })
 
+      .when("/aboutus", {
+          templateUrl: 'app/views/pages/aboutus.html'
+      })
+
   // .when('/login', {
   //     templateUrl: 'app/views/pages/login.html',
   //     controller: 'loginController',
